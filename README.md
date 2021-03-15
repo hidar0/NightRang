@@ -1,6 +1,6 @@
-# <p align="center" style="color:#cb3349" > [Link](https://telegram.me/@SouurceLink)
+# <p align="center" style="color:#cb3349" > [Link](https://telegram.me/SouurceLink)
 
- <p align="center" style="color: #000040;" > سورس نايترانج الاقوى والاحدث لحمايه المجموعات في التيليقرام
+ <p align="center" style="color: #000040;" > سورس لينك الاقوى والاحدث لحمايه المجموعات في التيليقرام
 
 ***
 
@@ -17,4 +17,4 @@ git clone https://github.com/hidar0/NightRang ;cd NightRang ;chmod +x NightRang 
 » تدخل مـعلومـاتك مـن توكن ومـعرفك .
 » وسـوف يعمـل البوت .
 ```
-# <a align="center" >[View in Telegram](https://telegram.me/hlil3)</a>
+# <a align="center" >[View in Telegram](https://telegram.me/SouurceLink)</a>
